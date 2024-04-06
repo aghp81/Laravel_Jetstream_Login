@@ -1,0 +1,11 @@
+{
+    "login": {
+        "login": "Login",
+        "email": "Email",
+        "emailPlaceholder": "Registered email address",
+        "password": "Password",
+        "passwordPlaceHolder": "Your account password"
+    },
+
+   "dashboard": {}
+}
